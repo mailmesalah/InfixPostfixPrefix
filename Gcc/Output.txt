@@ -1,0 +1,36 @@
+Infix Expression :
+( 5 + -6 ) 
+Prefix Expression :
++ 5 -6 
+
+The Evaluated output is : 9
+Infix Expression :
+( - + 9 ) 
+Postfix Expression :
+- 9 + 
+
+The Evaluated output is : 9
+Infix Expression :
+( 9 - ( 5 + -6 ) ) 
+Prefix Expression :
+- 9 + 5 -6 
+
+The Evaluated output is : 10
+Infix Expression :
+( ( 9 - 5 ) + 9 ) 
+Postfix Expression :
+9 5 - 9 + 
+
+The Evaluated output is : 13
+Infix Expression :
+( ( -9 - 5 ) + 9 ) 
+Postfix Expression :
+-9 5 - 9 + 
+
+The Evaluated output is : -5
+Infix Expression :
+( ( 6 - 5 ) + 7 ) 
+Postfix Expression :
+6 5 - 7 + 
+
+The Evaluated output is : 8
